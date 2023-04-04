@@ -1,2 +1,2 @@
 # LEARNING PHP ✨
-This repo contains all lesons that **Elzero** doesn't explaned it in the **PHP Bootcamp** ✍️.
+This repo contains all lesons that **Elzero** did not explaned it in the **PHP Bootcamp** ✍️.
